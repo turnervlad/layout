@@ -212,8 +212,7 @@ a{
 .footer-block{
 	display: flex;
 	justify-content: center;
-	margin: 90px 0 20px 0;
-	/*width: 940px;*/
+	margin: 90px 40px;
 }
 .footer-text{
 	color: #141414;
@@ -234,6 +233,13 @@ a{
   	border-style: none;
   	border-radius: 10px;
   	margin-bottom: 20px;
+  	color: #616161;
+  	font-family: "Helvetica-Light";
+  	font-size: 24px;
+  	font-weight: 400;
+  	line-height: 36px;
+  	letter-spacing: -0.4px;  	
+  	padding-left: 24px;
 }
 .footer input::placeholder{
 	color: #616161;
@@ -242,8 +248,7 @@ a{
   	font-weight: 400;
   	line-height: 36px;
   	letter-spacing: -0.4px;
-  	opacity: 0.6;
-  	padding-left: 24px;
+  	opacity: 0.6;  	
 }
 .footer-lorem{	
 	width: 460px;
@@ -269,5 +274,11 @@ a{
   	line-height: 32px;
   	letter-spacing: -0.4px;
   	margin-left: 20px;
+}
+
+@media (max-width: 1050px){
+	.footer-text{
+		margin-right: 35px;
+	}
 }
   
