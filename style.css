@@ -5,7 +5,7 @@
 .container{
 	max-width: 1440px;
 	width: 100%;
-	font-family: Helvetica;
+	font-family: "Helvetica", sans-serif;
 
 }
 .first-section{
@@ -42,7 +42,7 @@ a{
 }
 .first-link{
 	margin-right: 28px;
-	font-family: "Helvetica-Bold";
+	font-family: "Helvetica-Bold", sans-serif;
 	font-weight: bold;
 	font-size: 16px;
 	margin-top: 18px;
@@ -53,7 +53,7 @@ a{
 
 .header-button{
 	color: #ffffff;
-	font-family: "Helvetica-Bold";
+	font-family: "Helvetica-Bold", sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 19px;
@@ -74,7 +74,7 @@ a{
   	height: 120px;
 }
 .title {
-	font-family: "Helvetica-Light";
+	font-family: "Helvetica-Light", sans-serif;
 	color: #141414;
 	font-size: 48px;
 	line-height: 60px;
@@ -83,7 +83,7 @@ a{
 }
 .title-text {
 	color: #616161;
-	font-family: "Helvetica-Light";
+	font-family: "Helvetica-Light", sans-serif;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 30px;
@@ -92,7 +92,7 @@ a{
 }
 .telescope a {
 	color: #ff8364;
-  	font-family: "Helvetica-Bold";
+  	font-family: "Helvetica-Bold", sans-serif;
   	font-size: 16px;
   	font-weight: 400;
   	line-height: 22px;
@@ -112,7 +112,7 @@ a{
 .pricing .pricing-text{
 	width: 720px;	
 	color: #616161;
-	font-family: "Helvetica-Light";
+	font-family: "Helvetica-Light", sans-serif;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 30px;
@@ -144,7 +144,7 @@ a{
 }
 .price-block_version{
 	color: #141414;
- 	font-family: "Helvetica-Bold";
+ 	font-family: "Helvetica-Bold", sans-serif;
   	font-size: 14px;
  	font-weight: 400;
   	line-height: 19px;
@@ -153,7 +153,7 @@ a{
 }
 .price-block_cost{
 	color: #141414;
- 	font-family: "Helvetica-Light";
+ 	font-family: "Helvetica-Light", sans-serif;
   	font-size: 48px;
   	font-weight: 400;
   	line-height: 60px;
@@ -170,7 +170,7 @@ a{
 }
 .features-title{
 	color: #141414;
-  	font-family: "Helvetica-Bold";
+  	font-family: "Helvetica-Bold", sans-serif;
   	font-size: 16px;
   	font-weight: 400;
   	line-height: 22px;
@@ -192,7 +192,7 @@ a{
 }
 .feature-text{
 	color: #616161;
-  	font-family: "Helvetica-Light";
+  	font-family: "Helvetica-Light", sans-serif;
   	font-size: 16px;
   	font-weight: 400;
   	line-height: 24px;
@@ -201,7 +201,7 @@ a{
 .version-footer{
 	width: 290px;
 	color: #616161;
-  	font-family: "Helvetica-Light";
+  	font-family: "Helvetica-Light", sans-serif;
   	font-size: 12px;
   	font-weight: 400;
   	line-height: 18px;
@@ -216,15 +216,14 @@ a{
 }
 .footer-text{
 	color: #141414;
-	font-family: Helvetica;
+	font-family: "Helvetica", sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	line-height: 35px;
 	letter-spacing: -0.6px;
 	width: 150px;
 	height: 80px;
-	margin-right: 96px;
-	/*border: 1px solid red;*/
+	margin-right: 96px;	
 }
 .footer input{
 	width: 460px;
@@ -234,7 +233,7 @@ a{
   	border-radius: 10px;
   	margin-bottom: 20px;
   	color: #616161;
-  	font-family: "Helvetica-Light";
+  	font-family: "Helvetica-Light", sans-serif;
   	font-size: 24px;
   	font-weight: 400;
   	line-height: 36px;
@@ -243,7 +242,7 @@ a{
 }
 .footer input::placeholder{
 	color: #616161;
-  	font-family: "Helvetica-Light";
+  	font-family: "Helvetica-Light", sans-serif;
   	font-size: 24px;
   	font-weight: 400;
   	line-height: 36px;
@@ -254,7 +253,7 @@ a{
 	width: 460px;
 	margin: auto;
 	color: #616161;
-  	font-family: "Helvetica-Light";
+  	font-family: "Helvetica-Light", sans-serif;
   	font-size: 12px;
   	font-weight: 400;
   	line-height: 18px;
@@ -268,7 +267,7 @@ a{
   	border-style: none;
   	border-radius: 10px;
   	color: #ffffff;
-  	font-family: Helvetica;
+  	font-family: "Helvetica", sans-serif;
   	font-size: 24px;
   	font-weight: 400;
   	line-height: 32px;
