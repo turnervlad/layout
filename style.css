@@ -4,8 +4,7 @@
 
 .container{
 	max-width: 1440px;
-	width: 100%;
-	font-family: "Helvetica", sans-serif;
+	width: 100%;	
 
 }
 .first-section{
@@ -39,6 +38,7 @@ a{
 	line-height: 60px;
 	color: #141414;
 	letter-spacing: -0.9px;	
+	font-family: "Helvetica", sans-serif;
 }
 .first-link{
 	margin-right: 28px;
@@ -267,7 +267,7 @@ a{
   	border-style: none;
   	border-radius: 10px;
   	color: #ffffff;
-  	font-family: "Helvetica", sans-serif;
+  	/*font-family: "Helvetica", sans-serif;*/
   	font-size: 24px;
   	font-weight: 400;
   	line-height: 32px;
